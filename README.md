@@ -1,2 +1,2 @@
 # R-Final-Project
-This is my final project for my Introduction to R class at Montclair State University (CSIT 275)
+This is my final project for my Introduction to R class at Montclair State University (CSIT 275). I enjoyed working with the dataset I found which delt with Covid-19 data. In this class we learned a lot about some of the popular packages that data scientists and data analysts use in their day to day work. Utalizing the Pandas and Numpy packages I was able to create visualizations that tell the story of how the covid outbreak changed over time and I highlighted 3 different countries. Please let me know what you think and what can be done better in the future.
